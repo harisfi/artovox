@@ -3,9 +3,9 @@
                                    •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
 <strong>Perancangan</strong>
-Analisis Kebutuhan                 ██ 0-2
+Analisis Kebutuhan                 ██ 2
 <strong>Mendefinisikan Fungsionalitas Sistem</strong>
-Identifikasi User                    ▒ 0-1
+Identifikasi User                    █ 1
 Pembuatan Use Case                    ▒▒▒ 0-3
 Pembuatan Flowchart Modul                ▒▒▒ 0-3
 Menyusun Rencana Proyek                     ▒▒▒ 0-3
