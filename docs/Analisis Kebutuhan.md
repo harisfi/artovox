@@ -1,9 +1,10 @@
 # Definisi dan Spesifikasi Kebutuhan
 
-## ID : REQ_001
-Pengguna harus disediakan tampilan untuk registrasi
+Kode kebutuhan dalam proyek ini memiliki format `SRS_AP_XXYY` dengan `SRS` merupakan *Software Requirements Specification*, `AP` merupakan *Artovox Project*, `XX` merupakan nomor kebutuhan, dan `YY` merupakan nomor spesifikasi kebutuhan.
 
-1.1. Pengguna harus disediakan fasilitas untuk registrasi terlebih dahulu agar akun terdaftar.
-> Catatan: Akun bersifat pribadi (Tidak untuk publik)
+No | Kode | Definisi Kebutuhan
+-|-|-
+1 | `SRS_AP_0100` | Pengguna harus disediakan tampilan untuk registrasi
+1.1 | `SRS_AP_0101` | Pengguna harus disediakan fasilitas untuk registrasi terlebih dahulu agar akun terdaftar.<br> *Catatan: Akun bersifat pribadi (Tidak untuk publik)*
+1.2 | `SRS_AP_0102` | Pengguna harus disediakan fasilitas untuk login dengan menekan tombol login
 
-1.2. Pengguna harus disediakan fasilitas untuk login dengan menekan tombol login
