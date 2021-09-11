@@ -3,7 +3,7 @@
                                    •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
 <strong>Perancangan</strong>
-Analisis Kebutuhan                 ▒▒ 0-2
+Analisis Kebutuhan                 ██ 0-2
 <strong>Mendefinisikan Fungsionalitas Sistem</strong>
 Identifikasi User                    ▒ 0-1
 Pembuatan Use Case                    ▒▒▒ 0-3
